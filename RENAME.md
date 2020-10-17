@@ -145,7 +145,7 @@ $ cd latihan1``
 
 
 ### Author : Rangga Saputra
-![giphy-preview](https://user-images.githubusercontent.com/66506609/96253867-8bf24980-0fde-11eb-841c-8b8a6ba0171f.gif)
+![62c93a4cf6462f54fdea6d735d927f9c (1)](https://user-images.githubusercontent.com/73011940/96331784-586cf900-108a-11eb-978d-2f20fa861c23.gif)
 
 
 
