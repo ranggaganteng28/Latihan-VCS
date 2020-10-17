@@ -75,7 +75,7 @@ $ cd latihan1``
 `$ git add README.md`
 * File **README.md** berhasil ditambahkan.
 
-![Screenshot (5)](https://user-images.githubusercontent.com/73011940/96330400-f2c73f80-107e-11eb-8f6c-43ae239e236b.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/73011940/96330427-40dc4300-107f-11eb-986c-d2d87c6996e7.png)
 
 
 ### `Commit` (Menyimpan perubahan ke database)
