@@ -28,7 +28,7 @@
 
 `$ git config --global user.email “nama_user”`
 
-![Screenshot (2)](https://user-images.githubusercontent.com/73011940/96330213-cd860180-107d-11eb-9f83-77d52654719f.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/73011940/96330280-4422ff00-107e-11eb-80d6-fee1348c8c1d.png)
 
 ### Perintah Dasar Git
 
