@@ -14,8 +14,7 @@
 
 ``git --version``
 
-![20201016_163410 1](https://user-images.githubusercontent.com/66506609/96243082-71b06f80-0fce-11eb-9a03-940defed1612.png)
-
+![Screenshot (1)](https://user-images.githubusercontent.com/73011940/96330128-07a2d380-107d-11eb-87a2-19997f9d4416.png)
 
 ### Menambahkan Global Config
 * Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi ``user.name dan user.email``
